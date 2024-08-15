@@ -1,0 +1,188 @@
+[
+  {
+    "restaurant_name": "Soggy Tacos",
+    "reviewer": "Greg Thompson",
+    "rating": 1,
+    "review_text": "Soggy Tacos lived up to its name. The tacos were dripping with grease, and the meat tasted off. The service was slow, and the ambiance was lacking. Not recommended."
+  },
+  {
+    "restaurant_name": "Burnt Toast Cafe",
+    "reviewer": "Emily Parker",
+    "rating": 1,
+    "review_text": "Burnt Toast Cafe was a disappointment. The toast was literally burnt, and the coffee was bitter. The servers seemed overwhelmed, and the overall experience was unpleasant."
+  },
+  {
+    "restaurant_name": "Cold Soup Kitchen",
+    "reviewer": "David Reynolds",
+    "rating": 2,
+    "review_text": "Cold Soup Kitchen left much to be desired. The soup was lukewarm and lacked flavor. The decor was outdated, and the staff were indifferent. Wouldn't recommend."
+  },
+  {
+    "restaurant_name": "Soggy Fries Diner",
+    "reviewer": "Sarah Miller",
+    "rating": 1,
+    "review_text": "Soggy Fries Diner was a letdown. The fries were limp and soggy, and the burgers were dry. The atmosphere was dull, and the service was slow. Not worth a visit."
+  },
+  {
+    "restaurant_name": "Bland Burgers Joint",
+    "reviewer": "Jason Evans",
+    "rating": 2,
+    "review_text": "Bland Burgers Joint didn't impress. The burgers were bland and overcooked, and the fries were underseasoned. The restaurant lacked ambiance, and the staff were inattentive."
+  },
+  {
+    "restaurant_name": "Stale Pizza Place",
+    "reviewer": "Jessica Lee",
+    "rating": 1,
+    "review_text": "Stale Pizza Place served up disappointing pizza. The crust was stale, and the toppings were sparse. The dining area was unkempt, and the service was slow. Wouldn't recommend."
+  },
+  {
+    "restaurant_name": "Sour Salad Bar",
+    "reviewer": "Michael Smith",
+    "rating": 2,
+    "review_text": "Sour Salad Bar was a letdown. The salad ingredients seemed stale, and the dressings were lackluster. The atmosphere was uninviting, and the staff were not very friendly."
+  },
+  {
+    "restaurant_name": "Greasy Spoon Diner",
+    "reviewer": "Jennifer Brown",
+    "rating": 1,
+    "review_text": "Greasy Spoon Diner was a disappointment. The food was greasy and heavy, and the coffee was bitter. The decor was outdated, and the service was slow. Not recommended."
+  },
+  {
+    "restaurant_name": "Burnt BBQ Shack",
+    "reviewer": "Daniel Thompson",
+    "rating": 2,
+    "review_text": "Burnt BBQ Shack didn't meet expectations. The BBQ was burnt and dry, and the sides were underwhelming. The ambiance was lacking, and the service was mediocre."
+  },
+  {
+    "restaurant_name": "Mushy Pasta House",
+    "reviewer": "Sophia Clark",
+    "rating": 1,
+    "review_text": "Mushy Pasta House was a letdown. The pasta was overcooked and mushy, and the sauces were bland. The dining area was cramped, and the service was slow. Not worth it."
+  },
+  {
+    "restaurant_name": "Soggy Tacos",
+    "reviewer": "Hannah White",
+    "rating": 2,
+    "review_text": "Soggy Tacos wasn't the best experience. The tacos were greasy and lacked flavor. The service was slow, and the atmosphere was underwhelming."
+  },
+  {
+    "restaurant_name": "Burnt Toast Cafe",
+    "reviewer": "Chris Anderson",
+    "rating": 3,
+    "review_text": "Burnt Toast Cafe had its ups and downs. The toast was burnt, but the coffee was decent. The service could be improved, and the ambiance was okay."
+  },
+  {
+    "restaurant_name": "Cold Soup Kitchen",
+    "reviewer": "Emma Roberts",
+    "rating": 2,
+    "review_text": "Cold Soup Kitchen was a disappointment. The soup was lukewarm, and the flavors were bland. The decor was outdated, and the service was slow."
+  },
+  {
+    "restaurant_name": "Soggy Fries Diner",
+    "reviewer": "Jake Wilson",
+    "rating": 1,
+    "review_text": "Soggy Fries Diner was a letdown. The fries were soggy and tasteless. The burgers were dry, and the overall experience was disappointing."
+  },
+  {
+    "restaurant_name": "Bland Burgers Joint",
+    "reviewer": "Michelle Taylor",
+    "rating": 2,
+    "review_text": "Bland Burgers Joint didn't impress. The burgers lacked flavor and were overcooked. The fries were underwhelming, and the service was mediocre."
+  },
+  {
+    "restaurant_name": "Stale Pizza Place",
+    "reviewer": "Andrew Thompson",
+    "rating": 1,
+    "review_text": "Stale Pizza Place served up stale pizza. The crust was hard, and the toppings were sparse. The service was slow, and the overall experience was disappointing."
+  },
+  {
+    "restaurant_name": "Sour Salad Bar",
+    "reviewer": "Sophie Miller",
+    "rating": 3,
+    "review_text": "Sour Salad Bar had its hits and misses. The salad ingredients seemed fresh, but some dressings were too sour. The ambiance was average, and the service could be better."
+  },
+  {
+    "restaurant_name": "Greasy Spoon Diner",
+    "reviewer": "Adam Brown",
+    "rating": 2,
+    "review_text": "Greasy Spoon Diner was greasy indeed. The food was heavy, and the flavors were dull. The service was slow, and the atmosphere was unappealing."
+  },
+  {
+    "restaurant_name": "Burnt BBQ Shack",
+    "reviewer": "Rachel Johnson",
+    "rating": 1,
+    "review_text": "Burnt BBQ Shack left much to be desired. The BBQ was burnt and dry, and the sides were lackluster. The service was subpar, and the overall experience was disappointing."
+  },
+  {
+    "restaurant_name": "Mushy Pasta House",
+    "reviewer": "David Clark",
+    "rating": 2,
+    "review_text": "Mushy Pasta House fell short of expectations. The pasta was overcooked, and the sauces were bland. The service was slow, and the atmosphere was uninspiring."
+  },
+  {
+    "restaurant_name": "Soggy Tacos",
+    "reviewer": "Natalie Green",
+    "rating": 3,
+    "review_text": "Soggy Tacos had its moments. While the tacos were a bit greasy, the fillings were decent. The service was average, and the atmosphere was casual."
+  },
+  {
+    "restaurant_name": "Burnt Toast Cafe",
+    "reviewer": "Kevin Martinez",
+    "rating": 2,
+    "review_text": "Burnt Toast Cafe could improve. The burnt toast was a disappointment, but the coffee was drinkable. The service was slow, and the ambiance was lacking."
+  },
+  {
+    "restaurant_name": "Cold Soup Kitchen",
+    "reviewer": "Olivia Adams",
+    "rating": 3,
+    "review_text": "Cold Soup Kitchen had some redeeming qualities. While the soup was lukewarm, some flavors were decent. The decor was outdated, but the service was friendly."
+  },
+  {
+    "restaurant_name": "Soggy Fries Diner",
+    "reviewer": "Lucas Wright",
+    "rating": 2,
+    "review_text": "Soggy Fries Diner wasn't impressive. The fries were soggy, and the burgers were mediocre. The service was slow, and the atmosphere was forgettable."
+  },
+  {
+    "restaurant_name": "Bland Burgers Joint",
+    "reviewer": "Sophia Thomas",
+    "rating": 1,
+    "review_text": "Bland Burgers Joint fell short. The burgers were tasteless, and the fries were undercooked. The service was lacking, and the ambiance was uninspiring."
+  },
+  {
+    "restaurant_name": "Stale Pizza Place",
+    "reviewer": "Matthew Roberts",
+    "rating": 2,
+    "review_text": "Stale Pizza Place served up disappointing pizza. The crust was hard, and the toppings were sparse. The service was slow, and the overall experience was dull."
+  },
+  {
+    "restaurant_name": "Sour Salad Bar",
+    "reviewer": "Isabella Johnson",
+    "rating": 3,
+    "review_text": "Sour Salad Bar had its moments. While some salads were fresh, others were overdressed. The service was decent, and the atmosphere was relaxed."
+  },
+  {
+    "restaurant_name": "Greasy Spoon Diner",
+    "reviewer": "Alexander Brown",
+    "rating": 2,
+    "review_text": "Greasy Spoon Diner was too greasy. The food was heavy, and the flavors were overpowering. The service was slow, and the atmosphere was unappealing."
+  },
+  {
+    "restaurant_name": "Burnt BBQ Shack",
+    "reviewer": "Gabriella Taylor",
+    "rating": 1,
+    "review_text": "Burnt BBQ Shack was a letdown. The BBQ was burnt and dry, and the sides were bland. The service was slow, and the overall experience was disappointing."
+  },
+  {
+    "restaurant_name": "Mushy Pasta House",
+    "reviewer": "Joshua Clark",
+    "rating": 2,
+    "review_text": "Mushy Pasta House lacked flavor. The pasta was overcooked, and the sauces were bland. The service was slow, and the atmosphere was uninspiring."
+  },
+  {
+    "restaurant_name": "Soggy Tacos",
+    "reviewer": "Nathan Green",
+    "rating": 3,
+    "review_text": "Soggy Tacos was decent. While the tacos were a bit greasy, the flavors were alright. The service was average, and the atmosphere was casual."
+  }
+]

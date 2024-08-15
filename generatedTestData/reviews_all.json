@@ -1,0 +1,1950 @@
+[{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9bc"
+  },
+  "restaurant_name": "Vegan Delights",
+  "reviewer": "Grace Lee",
+  "rating": 4,
+  "review_text": "A great variety of vegan options. Everything tasted fresh and delicious. Would come again.",
+  "date": "2024-01-07"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9bd"
+  },
+  "restaurant_name": "Steakhouse Supreme",
+  "reviewer": "Frank Thomas",
+  "rating": 5,
+  "review_text": "The steak was cooked to perfection and the sides were delicious. Excellent service as well.",
+  "date": "2024-01-06"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9be"
+  },
+  "restaurant_name": "The Fancy Fork",
+  "reviewer": "Karen Martinez",
+  "rating": 5,
+  "review_text": "Amazing dining experience! The ambiance was lovely and the dishes were artfully presented.",
+  "date": "2024-01-11"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9bf"
+  },
+  "restaurant_name": "Burger Barn",
+  "reviewer": "Liam Walker",
+  "rating": 2,
+  "review_text": "Burgers were overcooked and the service was slow. Not impressed.",
+  "date": "2024-01-12"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9c0"
+  },
+  "restaurant_name": "Sushi World",
+  "reviewer": "Mia Hill",
+  "rating": 4,
+  "review_text": "Fresh and delicious sushi. The rolls were beautifully crafted.",
+  "date": "2024-01-13"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9c1"
+  },
+  "restaurant_name": "Pasta Palace",
+  "reviewer": "Noah Adams",
+  "rating": 3,
+  "review_text": "Pasta was okay, but the sauce lacked flavor. Could be better.",
+  "date": "2024-01-14"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9c2"
+  },
+  "restaurant_name": "Taco Town",
+  "reviewer": "Olivia Nelson",
+  "rating": 5,
+  "review_text": "Incredible tacos! The flavors were vibrant and the portions generous.",
+  "date": "2024-01-15"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9c3"
+  },
+  "restaurant_name": "Steakhouse Supreme",
+  "reviewer": "Paul Baker",
+  "rating": 4,
+  "review_text": "Great steak, but the sides were just okay. Service was top-notch.",
+  "date": "2024-01-16"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9c4"
+  },
+  "restaurant_name": "Vegan Delights",
+  "reviewer": "Quinn Turner",
+  "rating": 5,
+  "review_text": "Excellent vegan options and everything was full of flavor. Will be back.",
+  "date": "2024-01-17"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9c5"
+  },
+  "restaurant_name": "Pizza Paradise",
+  "reviewer": "Rachel Green",
+  "rating": 3,
+  "review_text": "Pizza was good, but nothing extraordinary. A bit too much cheese.",
+  "date": "2024-01-18"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9c6"
+  },
+  "restaurant_name": "Seafood Shack",
+  "reviewer": "Sam Harris",
+  "rating": 4,
+  "review_text": "Delicious seafood and generous portions. A little expensive, but worth it.",
+  "date": "2024-01-19"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9c7"
+  },
+  "restaurant_name": "BBQ Haven",
+  "reviewer": "Tina Moore",
+  "rating": 5,
+  "review_text": "Fantastic BBQ! The ribs and brisket were melt-in-your-mouth good.",
+  "date": "2024-01-20"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9c8"
+  },
+  "restaurant_name": "The Fancy Fork",
+  "reviewer": "Uma King",
+  "rating": 5,
+  "review_text": "An unforgettable dining experience. Everything was perfect from start to finish.",
+  "date": "2024-01-21"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9c9"
+  },
+  "restaurant_name": "Sushi World",
+  "reviewer": "Wendy Young",
+  "rating": 4,
+  "review_text": "Great sushi and friendly staff. Would definitely return.",
+  "date": "2024-01-23"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9ca"
+  },
+  "restaurant_name": "Pasta Palace",
+  "reviewer": "Xavier Harris",
+  "rating": 2,
+  "review_text": "Disappointing pasta. It was overcooked and the sauce was bland.",
+  "date": "2024-01-24"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9cb"
+  },
+  "restaurant_name": "Burger Barn",
+  "reviewer": "Vince Scott",
+  "rating": 1,
+  "review_text": "Terrible experience. The food was cold and the service was rude.",
+  "date": "2024-01-22"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9cc"
+  },
+  "restaurant_name": "Taco Town",
+  "reviewer": "Yara Sanchez",
+  "rating": 5,
+  "review_text": "Best tacos I've ever had! Fresh, flavorful, and just perfect.",
+  "date": "2024-01-25"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9cd"
+  },
+  "restaurant_name": "Steakhouse Supreme",
+  "reviewer": "Zane Lewis",
+  "rating": 5,
+  "review_text": "Incredible steak and the sides were amazing too. Highly recommend.",
+  "date": "2024-01-26"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9ce"
+  },
+  "restaurant_name": "Vegan Delights",
+  "reviewer": "Aaron Brooks",
+  "rating": 4,
+  "review_text": "Great vegan food, but the service could be a bit faster.",
+  "date": "2024-01-27"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9cf"
+  },
+  "restaurant_name": "Pizza Paradise",
+  "reviewer": "Bella Reed",
+  "rating": 3,
+  "review_text": "Decent pizza, but not the best I've had. Crust was too thick for my liking.",
+  "date": "2024-01-28"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9d0"
+  },
+  "restaurant_name": "Seafood Shack",
+  "reviewer": "Carter Wood",
+  "rating": 4,
+  "review_text": "Fresh seafood and great portions. A bit pricey, but worth it.",
+  "date": "2024-01-29"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9d1"
+  },
+  "restaurant_name": "BBQ Haven",
+  "reviewer": "Daisy Fisher",
+  "rating": 5,
+  "review_text": "Amazing BBQ! The ribs were fall-off-the-bone tender and full of flavor.",
+  "date": "2024-01-30"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9d2"
+  },
+  "restaurant_name": "The Fancy Fork",
+  "reviewer": "Ethan Campbell",
+  "rating": 5,
+  "review_text": "An exceptional dining experience. The food was delicious and beautifully presented.",
+  "date": "2024-01-31"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9d3"
+  },
+  "restaurant_name": "Burger Barn",
+  "reviewer": "Fiona Long",
+  "rating": 2,
+  "review_text": "Burgers were dry and lacked flavor. Not impressed.",
+  "date": "2024-02-01"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9d4"
+  },
+  "restaurant_name": "Sushi World",
+  "reviewer": "Gavin Morris",
+  "rating": 4,
+  "review_text": "Good sushi and nice ambiance. Will definitely come back.",
+  "date": "2024-02-02"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9d5"
+  },
+  "restaurant_name": "Pasta Palace",
+  "reviewer": "Hannah Cooper",
+  "rating": 3,
+  "review_text": "Pasta was okay, but nothing special. The sauce could use more flavor.",
+  "date": "2024-02-03"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9d6"
+  },
+  "restaurant_name": "Taco Town",
+  "reviewer": "Ian Bell",
+  "rating": 5,
+  "review_text": "Delicious tacos with fresh ingredients. Highly recommend.",
+  "date": "2024-02-04"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9d7"
+  },
+  "restaurant_name": "Steakhouse Supreme",
+  "reviewer": "Julia Price",
+  "rating": 5,
+  "review_text": "Best steak I've had in years. The sides were delicious too. Excellent service.",
+  "date": "2024-02-05"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9d8"
+  },
+  "restaurant_name": "Pizza Paradise",
+  "reviewer": "Laura Turner",
+  "rating": 3,
+  "review_text": "Pizza was good, but a bit too greasy for my taste.",
+  "date": "2024-02-07"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9d9"
+  },
+  "restaurant_name": "Seafood Shack",
+  "reviewer": "Mason Phillips",
+  "rating": 4,
+  "review_text": "Fresh seafood and generous portions. A bit expensive, but worth it.",
+  "date": "2024-02-08"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9da"
+  },
+  "restaurant_name": "BBQ Haven",
+  "reviewer": "Nina Perez",
+  "rating": 5,
+  "review_text": "Fantastic BBQ! The ribs and pulled pork were incredible.",
+  "date": "2024-02-09"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9db"
+  },
+  "restaurant_name": "Vegan Delights",
+  "reviewer": "Kyle Mitchell",
+  "rating": 4,
+  "review_text": "Great vegan options and everything was tasty. Service was a bit slow.",
+  "date": "2024-02-06"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9dc"
+  },
+  "restaurant_name": "The Fancy Fork",
+  "reviewer": "Owen Ramirez",
+  "rating": 5,
+  "review_text": "An outstanding dining experience. The food was amazing and the service was top-notch.",
+  "date": "2024-02-10"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9dd"
+  },
+  "restaurant_name": "Burger Barn",
+  "reviewer": "Paula Gonzalez",
+  "rating": 1,
+  "review_text": "Terrible experience. The food was cold and the service was rude.",
+  "date": "2024-02-11"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9de"
+  },
+  "restaurant_name": "Pasta Palace",
+  "reviewer": "Riley Bennett",
+  "rating": 2,
+  "review_text": "Disappointing pasta. It was overcooked and the sauce was bland.",
+  "date": "2024-02-13"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9df"
+  },
+  "restaurant_name": "Sushi World",
+  "reviewer": "Quincy Flores",
+  "rating": 4,
+  "review_text": "Great sushi and friendly staff. Would definitely return.",
+  "date": "2024-02-12"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9e0"
+  },
+  "restaurant_name": "Steakhouse Supreme",
+  "reviewer": "Tyler Butler",
+  "rating": 5,
+  "review_text": "Incredible steak and the sides were amazing too. Highly recommend.",
+  "date": "2024-02-15"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9e1"
+  },
+  "restaurant_name": "Taco Town",
+  "reviewer": "Sofia Ramirez",
+  "rating": 5,
+  "review_text": "Best tacos I've ever had! Fresh, flavorful, and just perfect.",
+  "date": "2024-02-14"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9e2"
+  },
+  "restaurant_name": "Vegan Delights",
+  "reviewer": "Uma Foster",
+  "rating": 4,
+  "review_text": "Great vegan food, but the service could be a bit faster.",
+  "date": "2024-02-16"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9e3"
+  },
+  "restaurant_name": "Seafood Shack",
+  "reviewer": "Wendy Torres",
+  "rating": 4,
+  "review_text": "Fresh seafood and great portions. A bit pricey, but worth it.",
+  "date": "2024-02-18"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9e4"
+  },
+  "restaurant_name": "Pizza Paradise",
+  "reviewer": "Victor Kelly",
+  "rating": 3,
+  "review_text": "Decent pizza, but not the best I've had. Crust was too thick for my liking.",
+  "date": "2024-02-17"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9e5"
+  },
+  "restaurant_name": "BBQ Haven",
+  "reviewer": "Xander Griffin",
+  "rating": 5,
+  "review_text": "Amazing BBQ! The ribs were fall-off-the-bone tender and full of flavor.",
+  "date": "2024-02-19"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9e6"
+  },
+  "restaurant_name": "Burger Barn",
+  "reviewer": "Zane Cooper",
+  "rating": 2,
+  "review_text": "Burgers were dry and lacked flavor. Not impressed.",
+  "date": "2024-02-21"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9e7"
+  },
+  "restaurant_name": "Sushi World",
+  "reviewer": "Alice Murphy",
+  "rating": 4,
+  "review_text": "Good sushi and nice ambiance. Will definitely come back.",
+  "date": "2024-02-22"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9e8"
+  },
+  "restaurant_name": "The Fancy Fork",
+  "reviewer": "Yara Simmons",
+  "rating": 5,
+  "review_text": "An exceptional dining experience. The food was delicious and beautifully presented.",
+  "date": "2024-02-20"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9e9"
+  },
+  "restaurant_name": "Taco Town",
+  "reviewer": "Carol Edwards",
+  "rating": 5,
+  "review_text": "Delicious tacos with fresh ingredients. Highly recommend.",
+  "date": "2024-02-24"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9ea"
+  },
+  "restaurant_name": "Pasta Palace",
+  "reviewer": "Bob Young",
+  "rating": 3,
+  "review_text": "Pasta was okay, but nothing special. The sauce could use more flavor.",
+  "date": "2024-02-23"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9eb"
+  },
+  "restaurant_name": "Vegan Delights",
+  "reviewer": "Eve Harris",
+  "rating": 4,
+  "review_text": "Great vegan options and everything was tasty. Service was a bit slow.",
+  "date": "2024-02-26"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9ec"
+  },
+  "restaurant_name": "Steakhouse Supreme",
+  "reviewer": "David Green",
+  "rating": 5,
+  "review_text": "Best steak I've had in years. The sides were delicious too. Excellent service.",
+  "date": "2024-02-25"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9ed"
+  },
+  "restaurant_name": "Pizza Paradise",
+  "reviewer": "Frank White",
+  "rating": 3,
+  "review_text": "Pizza was good, but a bit too greasy for my taste.",
+  "date": "2024-02-27"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9ee"
+  },
+  "restaurant_name": "Seafood Shack",
+  "reviewer": "Grace Thomas",
+  "rating": 4,
+  "review_text": "Fresh seafood and generous portions. A bit expensive, but worth it.",
+  "date": "2024-02-28"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9ef"
+  },
+  "restaurant_name": "BBQ Haven",
+  "reviewer": "Henry Martinez",
+  "rating": 5,
+  "review_text": "Fantastic BBQ! The ribs and pulled pork were incredible.",
+  "date": "2024-02-29"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9f0"
+  },
+  "restaurant_name": "The Fancy Fork",
+  "reviewer": "Isabella Jackson",
+  "rating": 5,
+  "review_text": "An outstanding dining experience. The food was amazing and the service was top-notch.",
+  "date": "2024-03-01"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9f1"
+  },
+  "restaurant_name": "Sushi World",
+  "reviewer": "Karen Nelson",
+  "rating": 4,
+  "review_text": "Great sushi and friendly staff. Would definitely return.",
+  "date": "2024-03-03"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9f2"
+  },
+  "restaurant_name": "Burger Barn",
+  "reviewer": "Jack Lee",
+  "rating": 1,
+  "review_text": "Terrible experience. The food was cold and the service was rude.",
+  "date": "2024-03-02"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9f3"
+  },
+  "restaurant_name": "Pasta Palace",
+  "reviewer": "Liam Parker",
+  "rating": 2,
+  "review_text": "Disappointing pasta. It was overcooked and the sauce was bland.",
+  "date": "2024-03-04"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9f4"
+  },
+  "restaurant_name": "Pizza Paradise",
+  "reviewer": "Hank Miller",
+  "rating": 3,
+  "review_text": "Pizza was good, but a bit too greasy for my liking.",
+  "date": "2024-01-08"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9f5"
+  },
+  "restaurant_name": "Seafood Shack",
+  "reviewer": "Ivy Clark",
+  "rating": 4,
+  "review_text": "Fresh seafood and generous portions. A bit pricey, but worth it.",
+  "date": "2024-01-09"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9f6"
+  },
+  "restaurant_name": "Burger Barn",
+  "reviewer": "Bob Smith",
+  "rating": 3,
+  "review_text": "Burgers were decent, but nothing special. Fries were a bit soggy.",
+  "date": "2024-01-02"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9f7"
+  },
+  "restaurant_name": "The Fancy Fork",
+  "reviewer": "Alice Johnson",
+  "rating": 5,
+  "review_text": "Absolutely fantastic! The food was exquisite and the service impeccable. Will definitely come back!",
+  "date": "2024-01-01"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9f8"
+  },
+  "restaurant_name": "Taco Town",
+  "reviewer": "Eve Davis",
+  "rating": 5,
+  "review_text": "Amazing tacos! Fresh ingredients and bold flavors. Highly recommend!",
+  "date": "2024-01-05"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9f9"
+  },
+  "restaurant_name": "BBQ Haven",
+  "reviewer": "Jack Wilson",
+  "rating": 5,
+  "review_text": "Best BBQ in town! The ribs were tender and full of flavor.",
+  "date": "2024-01-10"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9fa"
+  },
+  "restaurant_name": "Sushi World",
+  "reviewer": "Carol White",
+  "rating": 4,
+  "review_text": "Great sushi, fresh and tasty. Service was a bit slow though.",
+  "date": "2024-01-03"
+},{
+  "_id": {
+    "$oid": "66686e0ef1674ad92752c9fb"
+  },
+  "restaurant_name": "Pasta Palace",
+  "reviewer": "David Brown",
+  "rating": 2,
+  "review_text": "Pasta was overcooked and the sauce was bland. Not worth the price.",
+  "date": "2024-01-04"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d60862"
+  },
+  "restaurant_name": "New York Deli",
+  "reviewer": "Rachel Cohen",
+  "rating": 5,
+  "review_text": "New York Deli is a haven for deli lovers. The pastrami sandwich was piled high with juicy, flavorful meat, and the pickles were a perfect complement. The bustling atmosphere and friendly staff made me feel right at home.",
+  "date": "2024-01-07"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d60863"
+  },
+  "restaurant_name": "Bavarian Bierhaus",
+  "reviewer": "Hans Müller",
+  "rating": 5,
+  "review_text": "Bavarian Bierhaus is a fantastic spot for German food lovers. The schnitzel was crispy and tender, and the pretzels were warm and soft. The beer selection was impressive, and the lively atmosphere added to the overall enjoyment. Highly recommended.",
+  "date": "2024-01-11"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d60864"
+  },
+  "restaurant_name": "Café de Paris",
+  "reviewer": "Sophie Laurent",
+  "rating": 5,
+  "review_text": "Café de Paris is a charming French café. The croissants were buttery and flaky, and the coffee was rich and aromatic. The cozy ambiance and friendly service made it a perfect spot for a relaxing morning. A little slice of Paris in the city.",
+  "date": "2024-01-12"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d60865"
+  },
+  "restaurant_name": "Tokyo Sushi",
+  "reviewer": "Hiroshi Tanaka",
+  "rating": 4,
+  "review_text": "Tokyo Sushi offers an authentic sushi experience. The fish was incredibly fresh, and the rice was perfectly seasoned. The ambiance was serene, though the service was a bit slow during peak hours. Overall, a great place for sushi lovers.",
+  "date": "2024-01-02"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d60866"
+  },
+  "restaurant_name": "Athens Taverna",
+  "reviewer": "Eleni Papadopoulos",
+  "rating": 5,
+  "review_text": "Athens Taverna serves delicious Greek food. The moussaka was rich and hearty, and the baklava was sweet and flaky. The rustic decor and friendly staff added to the authentic experience. A must-visit for Greek cuisine lovers.",
+  "date": "2024-01-14"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d60867"
+  },
+  "restaurant_name": "Havana Nights",
+  "reviewer": "Luis Martinez",
+  "rating": 4,
+  "review_text": "Havana Nights offers a taste of Cuba. The ropa vieja was flavorful and tender, and the mojitos were refreshing. The lively atmosphere and live music made for an enjoyable evening. A great spot for a night out with friends.",
+  "date": "2024-01-15"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d60868"
+  },
+  "restaurant_name": "Bangkok Bistro",
+  "reviewer": "Napat Suwannaphum",
+  "rating": 5,
+  "review_text": "Bangkok Bistro offers authentic Thai cuisine. The pad thai was perfectly seasoned, and the green curry was rich and spicy. The modern decor and attentive service made for a fantastic dining experience. Highly recommended for Thai food enthusiasts.",
+  "date": "2024-01-16"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d60869"
+  },
+  "restaurant_name": "Istanbul Grill",
+  "reviewer": "Emre Yılmaz",
+  "rating": 4,
+  "review_text": "Istanbul Grill serves delicious Turkish food. The kebabs were juicy and flavorful, and the baklava was sweet and flaky. The cozy atmosphere and friendly staff made for a pleasant dining experience. A great spot for authentic Turkish cuisine.",
+  "date": "2024-01-17"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d6086a"
+  },
+  "restaurant_name": "Tacos El Gordo",
+  "reviewer": "Carlos Hernández",
+  "rating": 4,
+  "review_text": "Tacos El Gordo offers some of the best tacos I've had. The carne asada was tender and well-seasoned, and the salsa had just the right amount of kick. The casual setting is perfect for a quick, delicious meal.",
+  "date": "2024-01-08"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d6086b"
+  },
+  "restaurant_name": "Mumbai Masala",
+  "reviewer": "Rajesh Kapoor",
+  "rating": 4,
+  "review_text": "Mumbai Masala offers a great variety of Indian dishes. The chicken tikka masala was flavorful, and the naan was soft and warm. The ambiance was cozy, though the service was a bit slow. Overall, a good spot for Indian food.",
+  "date": "2024-01-19"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d6086c"
+  },
+  "restaurant_name": "La Dolce Vita",
+  "reviewer": "Francesca Romano",
+  "rating": 5,
+  "review_text": "La Dolce Vita is a wonderful Italian restaurant. The pizza was wood-fired and delicious, with a perfect crust and fresh toppings. The tiramisu was light and flavorful. The elegant decor and friendly staff made for a memorable dining experience.",
+  "date": "2024-01-20"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d6086d"
+  },
+  "restaurant_name": "Beijing Palace",
+  "reviewer": "Li Wei",
+  "rating": 4,
+  "review_text": "Beijing Palace serves authentic Chinese cuisine. The Peking duck was crispy and flavorful, and the dumplings were juicy and delicious. The traditional decor and efficient service made for a pleasant meal. A great spot for Chinese food lovers.",
+  "date": "2024-01-21"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d6086e"
+  },
+  "restaurant_name": "Rio Carnival",
+  "reviewer": "Ana Silva",
+  "rating": 5,
+  "review_text": "Rio Carnival offers an authentic Brazilian dining experience. The feijoada was rich and flavorful, and the caipirinhas were refreshing. The vibrant decor and lively music added to the festive atmosphere. A must-visit for lovers of Brazilian cuisine.",
+  "date": "2024-01-18"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d6086f"
+  },
+  "restaurant_name": "Mumbai Spice",
+  "reviewer": "Ananya Patel",
+  "rating": 3,
+  "review_text": "Mumbai Spice has a promising menu, but the execution was lacking. The butter chicken was flavorful, but the naan was slightly burnt. The restaurant has a warm, inviting atmosphere, but the service could be improved. Worth a try, but manage your expectations.",
+  "date": "2024-01-04"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d60870"
+  },
+  "restaurant_name": "Seoul Garden",
+  "reviewer": "Min-jun Kim",
+  "rating": 4,
+  "review_text": "Seoul Garden offers a great variety of Korean dishes. The bibimbap was flavorful and well-presented, and the kimchi was perfectly fermented. The restaurant's modern decor and efficient service made for a pleasant dining experience.",
+  "date": "2024-01-06"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d60871"
+  },
+  "restaurant_name": "Nairobi Nights",
+  "reviewer": "Amina Mwangi",
+  "rating": 5,
+  "review_text": "Nairobi Nights brings the flavors of Kenya to life. The nyama choma was perfectly grilled, and the ugali was a great accompaniment. The vibrant decor and lively music added to the authentic experience. A true taste of Kenya in every bite.",
+  "date": "2024-01-09"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d60872"
+  },
+  "restaurant_name": "Chez Pierre",
+  "reviewer": "Léa Dubois",
+  "rating": 5,
+  "review_text": "Chez Pierre is a gem! The coq au vin was divine, and the tarte tatin was the best I've ever had. The ambiance was cozy and welcoming, and the staff were incredibly attentive. I can't wait to return and try more dishes from their exquisite menu.",
+  "date": "2024-01-01"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d60873"
+  },
+  "restaurant_name": "Le Mekong",
+  "reviewer": "Thuy Nguyen",
+  "rating": 4,
+  "review_text": "Le Mekong serves delicious Vietnamese cuisine. The pho was fragrant and flavorful, with tender beef and fresh herbs. The spring rolls were crispy and light. The cozy atmosphere and friendly staff made for a delightful meal.",
+  "date": "2024-01-10"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d60874"
+  },
+  "restaurant_name": "Il Gusto Italiano",
+  "reviewer": "Giovanni Rossi",
+  "rating": 5,
+  "review_text": "Il Gusto Italiano is a fantastic Italian restaurant. The pasta was al dente, and the sauces were rich and flavorful. The tiramisu was light and delicious. The friendly staff and charming decor made the experience even better. Highly recommended.",
+  "date": "2024-01-05"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d60875"
+  },
+  "restaurant_name": "La Casa de las Paellas",
+  "reviewer": "María González",
+  "rating": 5,
+  "review_text": "La Casa de las Paellas transported me back to Spain. The seafood paella was rich with flavor, and the sangria was refreshing. The rustic decor and live flamenco music added to the vibrant atmosphere. A must-visit for anyone craving authentic Spanish cuisine.",
+  "date": "2024-01-03"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d60876"
+  },
+  "restaurant_name": "Casa Portuguesa",
+  "reviewer": "Sofia Ferreira",
+  "rating": 5,
+  "review_text": "Casa Portuguesa offers a true taste of Portugal. The bacalhau was perfectly cooked, and the pastéis de nata were sweet and flaky. The warm decor and friendly staff made for a delightful dining experience. Highly recommended for authentic Portuguese cuisine.",
+  "date": "2024-01-22"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d60877"
+  },
+  "restaurant_name": "Buenos Aires Bistro",
+  "reviewer": "Joaquin Rodríguez",
+  "rating": 4,
+  "review_text": "Buenos Aires Bistro offers authentic Argentine cuisine. The steak was perfectly grilled, and the chimichurri sauce was fresh and flavorful. The rustic decor and friendly staff made for a pleasant meal. A great spot for lovers of Argentine food.",
+  "date": "2024-01-25"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d60878"
+  },
+  "restaurant_name": "El Rinconcito Peruano",
+  "reviewer": "Javier Torres",
+  "rating": 4,
+  "review_text": "El Rinconcito Peruano offers authentic Peruvian cuisine. The ceviche was fresh and tangy, and the lomo saltado was flavorful and tender. The vibrant decor and attentive staff made for a pleasant dining experience. Definitely worth a visit.",
+  "date": "2024-01-13"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d60879"
+  },
+  "restaurant_name": "Thai Orchid",
+  "reviewer": "Araya Thongchai",
+  "rating": 4,
+  "review_text": "Thai Orchid offers delicious Thai food. The tom yum soup was spicy and flavorful, and the pad see ew was perfectly cooked. The modern decor and attentive service made for a great dining experience. A good spot for Thai cuisine enthusiasts.",
+  "date": "2024-01-23"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d6087a"
+  },
+  "restaurant_name": "Marrakech Magic",
+  "reviewer": "Amina El-Fassi",
+  "rating": 5,
+  "review_text": "Marrakech Magic brings the flavors of Morocco to life. The tagine was rich and aromatic, and the couscous was light and fluffy. The traditional decor and warm hospitality made for an unforgettable dining experience. A true taste of Morocco in every bite.",
+  "date": "2024-01-24"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d6087b"
+  },
+  "restaurant_name": "Casa Mexicana",
+  "reviewer": "Isabella Rivera",
+  "rating": 4,
+  "review_text": "Casa Mexicana offers delicious Mexican food. The enchiladas were flavorful and cheesy, and the margaritas were refreshing. The vibrant decor and lively atmosphere made for an enjoyable dining experience. A great spot for Mexican cuisine.",
+  "date": "2024-01-27"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d6087c"
+  },
+  "restaurant_name": "Le Bistro Francais",
+  "reviewer": "Camille Dubois",
+  "rating": 5,
+  "review_text": "Le Bistro Francais is a wonderful French restaurant. The duck confit was tender and flavorful, and the crème brûlée was creamy and delicious. The elegant decor and friendly staff made for a memorable dining experience. Highly recommended.",
+  "date": "2024-01-30"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d6087d"
+  },
+  "restaurant_name": "Korean BBQ House",
+  "reviewer": "Jin-woo Park",
+  "rating": 5,
+  "review_text": "Korean BBQ House is a fantastic place for Korean barbecue. The meat was fresh and tender, and the banchan were varied and delicious. The interactive dining experience and friendly staff made for a memorable meal. Highly recommended.",
+  "date": "2024-01-26"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d6087e"
+  },
+  "restaurant_name": "Tokyo Ramen",
+  "reviewer": "Yuki Yamamoto",
+  "rating": 5,
+  "review_text": "Tokyo Ramen serves the best ramen in town. The broth was rich and flavorful, and the noodles were perfectly cooked. The minimalist decor and efficient service made for a fantastic dining experience. Highly recommended for ramen lovers.",
+  "date": "2024-02-01"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d6087f"
+  },
+  "restaurant_name": "Pasta Perfection",
+  "reviewer": "Luca Moretti",
+  "rating": 4,
+  "review_text": "Pasta Perfection lives up to its name. The pasta was perfectly cooked, and the sauces were rich and flavorful. The modern decor and attentive service made for a great dining experience. A good spot for Italian food lovers.",
+  "date": "2024-01-29"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d60880"
+  },
+  "restaurant_name": "La Trattoria",
+  "reviewer": "Sofia Bianchi",
+  "rating": 4,
+  "review_text": "La Trattoria offers delicious Italian food. The lasagna was rich and cheesy, and the tiramisu was light and flavorful. The rustic decor and friendly staff made for a pleasant dining experience. A great spot for Italian cuisine enthusiasts.",
+  "date": "2024-02-02"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d60881"
+  },
+  "restaurant_name": "Ethiopian Delight",
+  "reviewer": "Dawit Bekele",
+  "rating": 5,
+  "review_text": "Ethiopian Delight offers an authentic Ethiopian dining experience. The injera was soft and tangy, and the doro wat was rich and spicy. The traditional decor and friendly service made for a delightful meal. A must-visit for Ethiopian food enthusiasts.",
+  "date": "2024-01-28"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d60882"
+  },
+  "restaurant_name": "Mediterranean Magic",
+  "reviewer": "Zara El-Khoury",
+  "rating": 4,
+  "review_text": "Mediterranean Magic serves delicious Mediterranean cuisine. The falafel was crispy and flavorful, and the hummus was creamy and fresh. The warm decor and friendly staff made for a pleasant dining experience. A good spot for Mediterranean food lovers.",
+  "date": "2024-02-04"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d60883"
+  },
+  "restaurant_name": "Mexican Fiesta",
+  "reviewer": "Alejandro Cruz",
+  "rating": 5,
+  "review_text": "Mexican Fiesta offers an authentic Mexican dining experience. The tacos al pastor were flavorful and tender, and the guacamole was fresh and creamy. The lively atmosphere and friendly service made for an enjoyable meal. Highly recommended.",
+  "date": "2024-02-03"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d60884"
+  },
+  "restaurant_name": "Pho Saigon",
+  "reviewer": "Anh Tran",
+  "rating": 4,
+  "review_text": "Pho Saigon offers delicious Vietnamese food. The pho was aromatic and flavorful, with tender beef and fresh herbs. The spring rolls were light and crispy. The cozy atmosphere and efficient service made for a great dining experience.",
+  "date": "2024-02-06"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d60885"
+  },
+  "restaurant_name": "Tandoori Nights",
+  "reviewer": "Aarav Singh",
+  "rating": 5,
+  "review_text": "Tandoori Nights serves authentic Indian cuisine. The tandoori chicken was juicy and flavorful, and the naan was soft and warm. The elegant decor and attentive service made for a fantastic dining experience. Highly recommended.",
+  "date": "2024-02-07"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d60886"
+  },
+  "restaurant_name": "Thai Spice",
+  "reviewer": "Naree Suksawat",
+  "rating": 4,
+  "review_text": "Thai Spice offers a great variety of Thai dishes. The green curry was rich and spicy, and the pad thai was perfectly seasoned. The modern decor and friendly staff made for a pleasant dining experience. A good spot for Thai food lovers.",
+  "date": "2024-02-08"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d60887"
+  },
+  "restaurant_name": "The Irish Pub",
+  "reviewer": "Liam O'Sullivan",
+  "rating": 5,
+  "review_text": "The Irish Pub offers a true taste of Ireland. The fish and chips were crispy and flavorful, and the Guinness was perfectly poured. The cozy atmosphere and friendly staff made for a delightful evening. A must-visit for Irish pub lovers.",
+  "date": "2024-02-05"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d60888"
+  },
+  "restaurant_name": "The Curry House",
+  "reviewer": "Priya Sharma",
+  "rating": 4,
+  "review_text": "The Curry House offers a great variety of Indian dishes. The lamb curry was rich and spicy, and the naan was soft and warm. The cozy ambiance and friendly staff made for a pleasant dining experience. A good spot for Indian food.",
+  "date": "2024-01-31"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d60889"
+  },
+  "restaurant_name": "Greek Taverna",
+  "reviewer": "Dimitrios Ioannou",
+  "rating": 5,
+  "review_text": "Greek Taverna serves delicious Greek food. The souvlaki was tender and flavorful, and the baklava was sweet and flaky. The rustic decor and friendly staff added to the authentic experience. Highly recommended for lovers of Greek cuisine.",
+  "date": "2024-02-09"
+},{
+  "_id": {
+    "$oid": "66686f69ca0f0ca868d6088a"
+  },
+  "restaurant_name": "Cuban Café",
+  "reviewer": "Camila Garcia",
+  "rating": 4,
+  "review_text": "Cuban Café offers a taste of Cuba. The ropa vieja was tender and flavorful, and the mojitos were refreshing. The lively atmosphere and friendly service made for an enjoyable evening. A great spot for Cuban food lovers.",
+  "date": "2024-02-10"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c7e"
+  },
+  "restaurant_name": "Chez Pierre",
+  "reviewer": "Léa Dubois",
+  "rating": 5,
+  "review_text": "Chez Pierre is a gem! The coq au vin was divine, and the tarte tatin was the best I've ever had. The ambiance was cozy and welcoming, and the staff were incredibly attentive. I can't wait to return and try more dishes from their exquisite menu.",
+  "date": "2024-01-01"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c7f"
+  },
+  "restaurant_name": "Bavarian Bierhaus",
+  "reviewer": "Lukas Müller",
+  "rating": 5,
+  "review_text": "Bavarian Bierhaus is a fantastic spot for German cuisine. The schnitzel was crispy and tender, and the pretzels were soft and warm. The beer selection was impressive, and the lively atmosphere made for a great night out. Prost!",
+  "date": "2024-01-11"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c80"
+  },
+  "restaurant_name": "Taste of Istanbul",
+  "reviewer": "Emre Yilmaz",
+  "rating": 4,
+  "review_text": "Taste of Istanbul offers a great variety of Turkish dishes. The kebabs were flavorful and juicy, and the baklava was sweet and flaky. The traditional decor and warm hospitality made for an enjoyable dining experience.",
+  "date": "2024-01-12"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c81"
+  },
+  "restaurant_name": "Mumbai Masala",
+  "reviewer": "Priya Desai",
+  "rating": 5,
+  "review_text": "Mumbai Masala offers a vibrant and authentic Indian dining experience. The chicken tikka masala was rich and flavorful, and the garlic naan was soft and fragrant. The lively atmosphere and attentive service made for a memorable meal.",
+  "date": "2024-01-13"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c82"
+  },
+  "restaurant_name": "Greek Odyssey",
+  "reviewer": "Nikos Papadopoulos",
+  "rating": 4,
+  "review_text": "Greek Odyssey serves delicious Greek food. The moussaka was rich and flavorful, and the tzatziki was fresh and tangy. The rustic decor and friendly staff added to the authentic experience. A great spot for lovers of Greek cuisine.",
+  "date": "2024-01-14"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c83"
+  },
+  "restaurant_name": "Peking Pavilion",
+  "reviewer": "Mei Lin",
+  "rating": 5,
+  "review_text": "Peking Pavilion offers an authentic Chinese dining experience. The Peking duck was crispy and flavorful, and the dumplings were juicy and delicious. The traditional decor and efficient service made for a fantastic meal.",
+  "date": "2024-01-15"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c84"
+  },
+  "restaurant_name": "Brazilian Bistro",
+  "reviewer": "Ana Silva",
+  "rating": 4,
+  "review_text": "Brazilian Bistro offers a taste of Brazil with its delicious dishes. The feijoada was hearty and flavorful, and the caipirinhas were refreshing. The lively atmosphere and friendly staff made for an enjoyable dining experience.",
+  "date": "2024-01-16"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c85"
+  },
+  "restaurant_name": "Soul Food Heaven",
+  "reviewer": "James Brown",
+  "rating": 5,
+  "review_text": "Soul Food Heaven serves up comfort food at its best. The fried chicken was crispy and juicy, and the mac and cheese was creamy and delicious. The cornbread was a delightful addition to the meal. The warm atmosphere and friendly staff made it feel like home.",
+  "date": "2024-01-17"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c86"
+  },
+  "restaurant_name": "Mumbai Spice",
+  "reviewer": "Ananya Patel",
+  "rating": 3,
+  "review_text": "Mumbai Spice has a promising menu, but the execution was lacking. The butter chicken was flavorful, but the naan was slightly burnt. The restaurant has a warm, inviting atmosphere, but the service could be improved. Worth a try, but manage your expectations.",
+  "date": "2024-01-04"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c87"
+  },
+  "restaurant_name": "French Bistro",
+  "reviewer": "Claire Moreau",
+  "rating": 4,
+  "review_text": "French Bistro offers a taste of France with its delicious dishes. The coq au vin was rich and flavorful, and the crème brûlée was creamy and decadent. The elegant decor and attentive service made for a wonderful dining experience.",
+  "date": "2024-01-18"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c88"
+  },
+  "restaurant_name": "Tokyo Grill",
+  "reviewer": "Yuki Sato",
+  "rating": 5,
+  "review_text": "Tokyo Grill serves up fantastic Japanese cuisine. The teppanyaki was cooked to perfection, and the sushi was fresh and delicious. The minimalist decor and efficient service made for a great dining experience.",
+  "date": "2024-01-19"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c89"
+  },
+  "restaurant_name": "Spicy Thai",
+  "reviewer": "Somsak Prasert",
+  "rating": 4,
+  "review_text": "Spicy Thai offers a great variety of Thai dishes. The green curry was rich and spicy, and the pad thai was perfectly cooked. The modern decor and friendly staff made for a pleasant dining experience.",
+  "date": "2024-01-20"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c8a"
+  },
+  "restaurant_name": "Beijing Palace",
+  "reviewer": "Li Wei",
+  "rating": 4,
+  "review_text": "Beijing Palace serves authentic Chinese cuisine. The Peking duck was crispy and flavorful, and the dumplings were juicy and delicious. The traditional decor and efficient service made for a pleasant meal. A great spot for Chinese food lovers.",
+  "date": "2024-01-21"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c8b"
+  },
+  "restaurant_name": "Thai Orchid",
+  "reviewer": "Araya Thongchai",
+  "rating": 4,
+  "review_text": "Thai Orchid offers delicious Thai food. The tom yum soup was spicy and flavorful, and the pad see ew was perfectly cooked. The modern decor and attentive service made for a great dining experience. A good spot for Thai cuisine enthusiasts.",
+  "date": "2024-01-23"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c8c"
+  },
+  "restaurant_name": "Marrakech Magic",
+  "reviewer": "Amina El-Fassi",
+  "rating": 5,
+  "review_text": "Marrakech Magic brings the flavors of Morocco to life. The tagine was rich and aromatic, and the couscous was light and fluffy. The traditional decor and warm hospitality made for an unforgettable dining experience. A true taste of Morocco in every bite.",
+  "date": "2024-01-24"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c8d"
+  },
+  "restaurant_name": "Buenos Aires Bistro",
+  "reviewer": "Joaquin Rodríguez",
+  "rating": 4,
+  "review_text": "Buenos Aires Bistro offers authentic Argentine cuisine. The steak was perfectly grilled, and the chimichurri sauce was fresh and flavorful. The rustic decor and friendly staff made for a pleasant meal. A great spot for lovers of Argentine food.",
+  "date": "2024-01-25"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c8e"
+  },
+  "restaurant_name": "Korean BBQ House",
+  "reviewer": "Jin-woo Park",
+  "rating": 5,
+  "review_text": "Korean BBQ House is a fantastic place for Korean barbecue. The meat was fresh and tender, and the banchan were varied and delicious. The interactive dining experience and friendly staff made for a memorable meal. Highly recommended.",
+  "date": "2024-01-26"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c8f"
+  },
+  "restaurant_name": "Casa Mexicana",
+  "reviewer": "Isabella Rivera",
+  "rating": 4,
+  "review_text": "Casa Mexicana offers delicious Mexican food. The enchiladas were flavorful and cheesy, and the margaritas were refreshing. The vibrant decor and lively atmosphere made for an enjoyable dining experience. A great spot for Mexican cuisine.",
+  "date": "2024-01-27"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c90"
+  },
+  "restaurant_name": "Casa Portuguesa",
+  "reviewer": "Sofia Ferreira",
+  "rating": 5,
+  "review_text": "Casa Portuguesa offers a true taste of Portugal. The bacalhau was perfectly cooked, and the pastéis de nata were sweet and flaky. The warm decor and friendly staff made for a delightful dining experience. Highly recommended for authentic Portuguese cuisine.",
+  "date": "2024-01-22"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c91"
+  },
+  "restaurant_name": "Nairobi Nights",
+  "reviewer": "Amina Mwangi",
+  "rating": 5,
+  "review_text": "Nairobi Nights brings the flavors of Kenya to life. The nyama choma was perfectly grilled, and the ugali was a great accompaniment. The vibrant decor and lively music added to the authentic experience. A true taste of Kenya in every bite.",
+  "date": "2024-01-09"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c92"
+  },
+  "restaurant_name": "Il Gusto Italiano",
+  "reviewer": "Giovanni Rossi",
+  "rating": 5,
+  "review_text": "Il Gusto Italiano is a fantastic Italian restaurant. The pasta was al dente, and the sauces were rich and flavorful. The tiramisu was light and delicious. The friendly staff and charming decor made the experience even better. Highly recommended.",
+  "date": "2024-01-05"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c93"
+  },
+  "restaurant_name": "Ethiopian Delight",
+  "reviewer": "Dawit Bekele",
+  "rating": 5,
+  "review_text": "Ethiopian Delight offers an authentic Ethiopian dining experience. The injera was soft and tangy, and the doro wat was rich and spicy. The traditional decor and friendly service made for a delightful meal. A must-visit for Ethiopian food enthusiasts.",
+  "date": "2024-01-28"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c94"
+  },
+  "restaurant_name": "Pasta Perfection",
+  "reviewer": "Luca Moretti",
+  "rating": 4,
+  "review_text": "Pasta Perfection lives up to its name. The pasta was perfectly cooked, and the sauces were rich and flavorful. The modern decor and attentive service made for a great dining experience. A good spot for Italian food lovers.",
+  "date": "2024-01-29"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c95"
+  },
+  "restaurant_name": "Le Bistro Francais",
+  "reviewer": "Camille Dubois",
+  "rating": 5,
+  "review_text": "Le Bistro Francais is a wonderful French restaurant. The duck confit was tender and flavorful, and the crème brûlée was creamy and delicious. The elegant decor and friendly staff made for a memorable dining experience. Highly recommended.",
+  "date": "2024-01-30"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c96"
+  },
+  "restaurant_name": "Tokyo Ramen",
+  "reviewer": "Yuki Yamamoto",
+  "rating": 5,
+  "review_text": "Tokyo Ramen serves the best ramen in town. The broth was rich and flavorful, and the noodles were perfectly cooked. The minimalist decor and efficient service made for a great dining experience. Highly recommended for ramen lovers.",
+  "date": "2024-02-01"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c97"
+  },
+  "restaurant_name": "The Curry House",
+  "reviewer": "Priya Sharma",
+  "rating": 4,
+  "review_text": "The Curry House offers a great variety of Indian dishes. The lamb curry was rich and spicy, and the naan was soft and warm. The cozy ambiance and friendly staff made for a pleasant dining experience. A good spot for Indian food.",
+  "date": "2024-01-31"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c98"
+  },
+  "restaurant_name": "Vietnamese Kitchen",
+  "reviewer": "Ngoc Pham",
+  "rating": 4,
+  "review_text": "Vietnamese Kitchen offers a delightful array of traditional dishes. The pho was aromatic and comforting, with a rich broth and tender slices of beef. The banh mi was also a standout, with a crispy baguette and flavorful fillings. The ambiance is cozy and the staff are welcoming. Definitely a place worth visiting for a taste of Vietnam.",
+  "date": "2024-02-11"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c99"
+  },
+  "restaurant_name": "Cuban Paradise",
+  "reviewer": "Santiago Perez",
+  "rating": 4,
+  "review_text": "Cuban Paradise offers a taste of Cuba with its delicious dishes. The ropa vieja was tender and flavorful, and the mojitos were refreshing. The vibrant decor and lively music added to the enjoyable atmosphere. A great spot for Cuban cuisine.",
+  "date": "2024-02-02"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c9a"
+  },
+  "restaurant_name": "Brazilian Churrasco",
+  "reviewer": "Diego Costa",
+  "rating": 5,
+  "review_text": "Brazilian Churrasco offers an unforgettable dining experience with its endless selection of grilled meats. The picanha was cooked to perfection, juicy and flavorful. The salad bar was fresh and had a great variety. The vibrant atmosphere and attentive service made it a fantastic night out. A must-visit for meat lovers.",
+  "date": "2024-02-12"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c9b"
+  },
+  "restaurant_name": "Persian Palace",
+  "reviewer": "Zahra Ahmadi",
+  "rating": 5,
+  "review_text": "Persian Palace is a hidden gem serving authentic Persian cuisine. The koobideh kebabs were juicy and perfectly seasoned, and the saffron rice was aromatic and fluffy. The decor is elegant and the service was impeccable. A great place for a special occasion or just to enjoy a delicious meal.",
+  "date": "2024-02-13"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c9c"
+  },
+  "restaurant_name": "Italian Bistro",
+  "reviewer": "Paolo Ricci",
+  "rating": 4,
+  "review_text": "Italian Bistro offers a cozy and intimate dining experience. The risotto was creamy and rich, with a perfect balance of flavors. The bruschetta was fresh and flavorful. The ambiance is charming and the staff are friendly and attentive. A wonderful spot for a romantic dinner or a quiet night out.",
+  "date": "2024-02-14"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c9d"
+  },
+  "restaurant_name": "Russian Delight",
+  "reviewer": "Anastasia Petrova",
+  "rating": 5,
+  "review_text": "Russian Delight brings the flavors of Russia to life. The borscht was hearty and flavorful, and the pelmeni were tender and delicious. The decor is traditional and the staff are warm and welcoming. A fantastic place to experience authentic Russian cuisine.",
+  "date": "2024-02-15"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c9e"
+  },
+  "restaurant_name": "Lebanese Haven",
+  "reviewer": "Omar Khoury",
+  "rating": 5,
+  "review_text": "Lebanese Haven offers a delightful array of Lebanese dishes. The shawarma was juicy and packed with flavor, and the hummus was creamy and delicious. The ambiance is warm and inviting, with beautiful decor and friendly staff. A great place to enjoy a meal with family and friends.",
+  "date": "2024-02-16"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69c9f"
+  },
+  "restaurant_name": "Jamaican Vibes",
+  "reviewer": "Leroy Brown",
+  "rating": 4,
+  "review_text": "Jamaican Vibes offers an authentic taste of the Caribbean. The jerk chicken was spicy and flavorful, and the plantains were sweet and perfectly cooked. The vibrant decor and lively music added to the enjoyable atmosphere. A great spot to unwind and enjoy some delicious Jamaican food.",
+  "date": "2024-02-17"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69ca0"
+  },
+  "restaurant_name": "Soul Food Kitchen",
+  "reviewer": "Aaliyah Johnson",
+  "rating": 5,
+  "review_text": "Soul Food Kitchen serves up hearty and comforting dishes. The fried chicken was crispy and tender, and the mac and cheese was creamy and rich. The cornbread was a delightful addition to the meal. The warm atmosphere and friendly staff made it feel like a home away from home. Highly recommended.",
+  "date": "2024-02-18"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69ca1"
+  },
+  "restaurant_name": "Moroccan Oasis",
+  "reviewer": "Khalid El-Mahdi",
+  "rating": 4,
+  "review_text": "Moroccan Oasis offers a taste of Morocco with its delicious dishes. The lamb tagine was tender and aromatic, with a perfect blend of spices. The couscous was light and fluffy, complementing the tagine perfectly. The traditional decor and warm hospitality made for a memorable dining experience. A great spot for Moroccan cuisine lovers.",
+  "date": "2024-02-19"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69ca2"
+  },
+  "restaurant_name": "New York Deli",
+  "reviewer": "Rachel Cohen",
+  "rating": 5,
+  "review_text": "New York Deli is a haven for deli lovers. The pastrami sandwich was piled high with juicy, flavorful meat, and the pickles were a perfect complement. The bustling atmosphere and friendly staff made me feel right at home.",
+  "date": "2024-01-07"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69ca3"
+  },
+  "restaurant_name": "Le Mekong",
+  "reviewer": "Thuy Nguyen",
+  "rating": 4,
+  "review_text": "Le Mekong serves delicious Vietnamese cuisine. The pho was fragrant and flavorful, with tender beef and fresh herbs. The spring rolls were crispy and light. The cozy atmosphere and friendly staff made for a delightful meal.",
+  "date": "2024-01-10"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69ca4"
+  },
+  "restaurant_name": "Seoul Garden",
+  "reviewer": "Min-jun Kim",
+  "rating": 4,
+  "review_text": "Seoul Garden offers a great variety of Korean dishes. The bibimbap was flavorful and well-presented, and the kimchi was perfectly fermented. The restaurant's modern decor and efficient service made for a pleasant dining experience.",
+  "date": "2024-01-06"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69ca5"
+  },
+  "restaurant_name": "La Casa de las Paellas",
+  "reviewer": "María González",
+  "rating": 5,
+  "review_text": "La Casa de las Paellas transported me back to Spain. The seafood paella was rich with flavor, and the sangria was refreshing. The rustic decor and live flamenco music added to the vibrant atmosphere. A must-visit for anyone craving authentic Spanish cuisine.",
+  "date": "2024-01-03"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69ca6"
+  },
+  "restaurant_name": "Tokyo Sushi",
+  "reviewer": "Hiroshi Tanaka",
+  "rating": 4,
+  "review_text": "Tokyo Sushi offers an authentic sushi experience. The fish was incredibly fresh, and the rice was perfectly seasoned. The ambiance was serene, though the service was a bit slow during peak hours. Overall, a great place for sushi lovers.",
+  "date": "2024-01-02"
+},{
+  "_id": {
+    "$oid": "6668706e11bffbd8b2d69ca7"
+  },
+  "restaurant_name": "Tacos El Gordo",
+  "reviewer": "Carlos Hernández",
+  "rating": 4,
+  "review_text": "Tacos El Gordo offers some of the best tacos I've had. The carne asada was tender and well-seasoned, and the salsa had just the right amount of kick. The casual setting is perfect for a quick, delicious meal.",
+  "date": "2024-01-08"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00db8"
+  },
+  "restaurant_name": "Seoul Garden",
+  "reviewer": "Min-jun Kim",
+  "rating": 4,
+  "review_text": "Seoul Garden offers a great variety of Korean dishes. The bibimbap was flavorful and well-presented, and the kimchi was perfectly fermented. The restaurant's modern decor and efficient service made for a pleasant dining experience.",
+  "date": "2024-01-06"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00db9"
+  },
+  "restaurant_name": "Bavarian Bierhaus",
+  "reviewer": "Lukas Müller",
+  "rating": 5,
+  "review_text": "Bavarian Bierhaus is a fantastic spot for German cuisine. The schnitzel was crispy and tender, and the pretzels were soft and warm. The beer selection was impressive, and the lively atmosphere made for a great night out. Prost!",
+  "date": "2024-01-11"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dba"
+  },
+  "restaurant_name": "Taste of Istanbul",
+  "reviewer": "Emre Yilmaz",
+  "rating": 4,
+  "review_text": "Taste of Istanbul offers a great variety of Turkish dishes. The kebabs were flavorful and juicy, and the baklava was sweet and flaky. The traditional decor and warm hospitality made for an enjoyable dining experience.",
+  "date": "2024-01-12"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dbb"
+  },
+  "restaurant_name": "Tokyo Sushi",
+  "reviewer": "Hiroshi Tanaka",
+  "rating": 4,
+  "review_text": "Tokyo Sushi offers an authentic sushi experience. The fish was incredibly fresh, and the rice was perfectly seasoned. The ambiance was serene, though the service was a bit slow during peak hours. Overall, a great place for sushi lovers.",
+  "date": "2024-01-02"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dbc"
+  },
+  "restaurant_name": "Mumbai Masala",
+  "reviewer": "Priya Desai",
+  "rating": 5,
+  "review_text": "Mumbai Masala offers a vibrant and authentic Indian dining experience. The chicken tikka masala was rich and flavorful, and the garlic naan was soft and fragrant. The lively atmosphere and attentive service made for a memorable meal.",
+  "date": "2024-01-13"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dbd"
+  },
+  "restaurant_name": "Greek Odyssey",
+  "reviewer": "Nikos Papadopoulos",
+  "rating": 4,
+  "review_text": "Greek Odyssey serves delicious Greek food. The moussaka was rich and flavorful, and the tzatziki was fresh and tangy. The rustic decor and friendly staff added to the authentic experience. A great spot for lovers of Greek cuisine.",
+  "date": "2024-01-14"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dbe"
+  },
+  "restaurant_name": "Peking Pavilion",
+  "reviewer": "Mei Lin",
+  "rating": 5,
+  "review_text": "Peking Pavilion offers an authentic Chinese dining experience. The Peking duck was crispy and flavorful, and the dumplings were juicy and delicious. The traditional decor and efficient service made for a fantastic meal.",
+  "date": "2024-01-15"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dbf"
+  },
+  "restaurant_name": "Brazilian Bistro",
+  "reviewer": "Ana Silva",
+  "rating": 4,
+  "review_text": "Brazilian Bistro offers a taste of Brazil with its delicious dishes. The feijoada was hearty and flavorful, and the caipirinhas were refreshing. The lively atmosphere and friendly staff made for an enjoyable dining experience.",
+  "date": "2024-01-16"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dc0"
+  },
+  "restaurant_name": "Soul Food Heaven",
+  "reviewer": "James Brown",
+  "rating": 5,
+  "review_text": "Soul Food Heaven serves up comfort food at its best. The fried chicken was crispy and juicy, and the mac and cheese was creamy and delicious. The cornbread was a delightful addition to the meal. The warm atmosphere and friendly staff made it feel like home.",
+  "date": "2024-01-17"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dc1"
+  },
+  "restaurant_name": "French Bistro",
+  "reviewer": "Claire Moreau",
+  "rating": 4,
+  "review_text": "French Bistro offers a taste of France with its delicious dishes. The coq au vin was rich and flavorful, and the crème brûlée was creamy and decadent. The elegant decor and attentive service made for a wonderful dining experience.",
+  "date": "2024-01-18"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dc2"
+  },
+  "restaurant_name": "Chez Pierre",
+  "reviewer": "Léa Dubois",
+  "rating": 5,
+  "review_text": "Chez Pierre is a gem! The coq au vin was divine, and the tarte tatin was the best I've ever had. The ambiance was cozy and welcoming, and the staff were incredibly attentive. I can't wait to return and try more dishes from their exquisite menu.",
+  "date": "2024-01-01"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dc3"
+  },
+  "restaurant_name": "Beijing Palace",
+  "reviewer": "Li Wei",
+  "rating": 4,
+  "review_text": "Beijing Palace serves authentic Chinese cuisine. The Peking duck was crispy and flavorful, and the dumplings were juicy and delicious. The traditional decor and efficient service made for a pleasant meal. A great spot for Chinese food lovers.",
+  "date": "2024-01-21"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dc4"
+  },
+  "restaurant_name": "Nairobi Nights",
+  "reviewer": "Amina Mwangi",
+  "rating": 5,
+  "review_text": "Nairobi Nights brings the flavors of Kenya to life. The nyama choma was perfectly grilled, and the ugali was a great accompaniment. The vibrant decor and lively music added to the authentic experience. A true taste of Kenya in every bite.",
+  "date": "2024-01-09"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dc5"
+  },
+  "restaurant_name": "Il Gusto Italiano",
+  "reviewer": "Giovanni Rossi",
+  "rating": 5,
+  "review_text": "Il Gusto Italiano is a fantastic Italian restaurant. The pasta was al dente, and the sauces were rich and flavorful. The tiramisu was light and delicious. The friendly staff and charming decor made the experience even better. Highly recommended.",
+  "date": "2024-01-05"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dc6"
+  },
+  "restaurant_name": "La Casa de las Paellas",
+  "reviewer": "María González",
+  "rating": 5,
+  "review_text": "La Casa de las Paellas transported me back to Spain. The seafood paella was rich with flavor, and the sangria was refreshing. The rustic decor and live flamenco music added to the vibrant atmosphere. A must-visit for anyone craving authentic Spanish cuisine.",
+  "date": "2024-01-03"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dc7"
+  },
+  "restaurant_name": "Tacos El Gordo",
+  "reviewer": "Carlos Hernández",
+  "rating": 4,
+  "review_text": "Tacos El Gordo offers some of the best tacos I've had. The carne asada was tender and well-seasoned, and the salsa had just the right amount of kick. The casual setting is perfect for a quick, delicious meal.",
+  "date": "2024-01-08"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dc8"
+  },
+  "restaurant_name": "Mumbai Spice",
+  "reviewer": "Ananya Patel",
+  "rating": 3,
+  "review_text": "Mumbai Spice has a promising menu, but the execution was lacking. The butter chicken was flavorful, but the naan was slightly burnt. The restaurant has a warm, inviting atmosphere, but the service could be improved. Worth a try, but manage your expectations.",
+  "date": "2024-01-04"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dc9"
+  },
+  "restaurant_name": "New York Deli",
+  "reviewer": "Rachel Cohen",
+  "rating": 5,
+  "review_text": "New York Deli is a haven for deli lovers. The pastrami sandwich was piled high with juicy, flavorful meat, and the pickles were a perfect complement. The bustling atmosphere and friendly staff made me feel right at home.",
+  "date": "2024-01-07"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dca"
+  },
+  "restaurant_name": "Tokyo Grill",
+  "reviewer": "Yuki Sato",
+  "rating": 5,
+  "review_text": "Tokyo Grill serves up fantastic Japanese cuisine. The teppanyaki was cooked to perfection, and the sushi was fresh and delicious. The minimalist decor and efficient service made for a great dining experience.",
+  "date": "2024-01-19"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dcb"
+  },
+  "restaurant_name": "Spicy Thai",
+  "reviewer": "Somsak Prasert",
+  "rating": 4,
+  "review_text": "Spicy Thai offers a great variety of Thai dishes. The green curry was rich and spicy, and the pad thai was perfectly cooked. The modern decor and friendly staff made for a pleasant dining experience.",
+  "date": "2024-01-20"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dcc"
+  },
+  "restaurant_name": "Le Bistro Francais",
+  "reviewer": "Camille Dubois",
+  "rating": 5,
+  "review_text": "Le Bistro Francais is a wonderful French restaurant. The duck confit was tender and flavorful, and the crème brûlée was creamy and delicious. The elegant decor and friendly staff made for a memorable dining experience. Highly recommended.",
+  "date": "2024-01-30"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dcd"
+  },
+  "restaurant_name": "Le Mekong",
+  "reviewer": "Thuy Nguyen",
+  "rating": 4,
+  "review_text": "Le Mekong serves delicious Vietnamese cuisine. The pho was fragrant and flavorful, with tender beef and fresh herbs. The spring rolls were crispy and light. The cozy atmosphere and friendly staff made for a delightful meal.",
+  "date": "2024-01-10"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dce"
+  },
+  "restaurant_name": "Casa Portuguesa",
+  "reviewer": "Sofia Ferreira",
+  "rating": 5,
+  "review_text": "Casa Portuguesa offers a true taste of Portugal. The bacalhau was perfectly cooked, and the pastéis de nata were sweet and flaky. The warm decor and friendly staff made for a delightful dining experience. Highly recommended for authentic Portuguese cuisine.",
+  "date": "2024-01-22"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dcf"
+  },
+  "restaurant_name": "Thai Orchid",
+  "reviewer": "Araya Thongchai",
+  "rating": 4,
+  "review_text": "Thai Orchid offers delicious Thai food. The tom yum soup was spicy and flavorful, and the pad see ew was perfectly cooked. The modern decor and attentive service made for a great dining experience. A good spot for Thai cuisine enthusiasts.",
+  "date": "2024-01-23"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dd0"
+  },
+  "restaurant_name": "Marrakech Magic",
+  "reviewer": "Amina El-Fassi",
+  "rating": 5,
+  "review_text": "Marrakech Magic brings the flavors of Morocco to life. The tagine was rich and aromatic, and the couscous was light and fluffy. The traditional decor and warm hospitality made for an unforgettable dining experience. A true taste of Morocco in every bite.",
+  "date": "2024-01-24"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dd1"
+  },
+  "restaurant_name": "Tokyo Ramen",
+  "reviewer": "Yuki Yamamoto",
+  "rating": 5,
+  "review_text": "Tokyo Ramen serves the best ramen in town. The broth was rich and flavorful, and the noodles were perfectly cooked. The minimalist decor and efficient service made for a great dining experience. Highly recommended for ramen lovers.",
+  "date": "2024-02-01"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dd2"
+  },
+  "restaurant_name": "Casa Mexicana",
+  "reviewer": "Isabella Rivera",
+  "rating": 4,
+  "review_text": "Casa Mexicana offers delicious Mexican food. The enchiladas were flavorful and cheesy, and the margaritas were refreshing. The vibrant decor and lively atmosphere made for an enjoyable dining experience. A great spot for Mexican cuisine.",
+  "date": "2024-01-27"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dd3"
+  },
+  "restaurant_name": "Ethiopian Delight",
+  "reviewer": "Dawit Bekele",
+  "rating": 5,
+  "review_text": "Ethiopian Delight offers an authentic Ethiopian dining experience. The injera was soft and tangy, and the doro wat was rich and spicy. The traditional decor and friendly service made for a delightful meal. A must-visit for Ethiopian food enthusiasts.",
+  "date": "2024-01-28"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dd4"
+  },
+  "restaurant_name": "Buenos Aires Bistro",
+  "reviewer": "Joaquin Rodríguez",
+  "rating": 4,
+  "review_text": "Buenos Aires Bistro offers authentic Argentine cuisine. The steak was perfectly grilled, and the chimichurri sauce was fresh and flavorful. The rustic decor and friendly staff made for a pleasant meal. A great spot for lovers of Argentine food.",
+  "date": "2024-01-25"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dd5"
+  },
+  "restaurant_name": "The Curry House",
+  "reviewer": "Priya Sharma",
+  "rating": 4,
+  "review_text": "The Curry House offers a great variety of Indian dishes. The lamb curry was rich and spicy, and the naan was soft and warm. The cozy ambiance and friendly staff made for a pleasant dining experience. A good spot for Indian food.",
+  "date": "2024-01-31"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dd6"
+  },
+  "restaurant_name": "Pasta Perfection",
+  "reviewer": "Luca Moretti",
+  "rating": 4,
+  "review_text": "Pasta Perfection lives up to its name. The pasta was perfectly cooked, and the sauces were rich and flavorful. The modern decor and attentive service made for a great dining experience. A good spot for Italian food lovers.",
+  "date": "2024-01-29"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dd7"
+  },
+  "restaurant_name": "Cuban Paradise",
+  "reviewer": "Santiago Perez",
+  "rating": 4,
+  "review_text": "Cuban Paradise offers a taste of Cuba with its delicious dishes. The ropa vieja was tender and flavorful, and the mojitos were refreshing. The vibrant decor and lively music added to the enjoyable atmosphere. A great spot for Cuban cuisine.",
+  "date": "2024-02-02"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dd8"
+  },
+  "restaurant_name": "Persian Palace",
+  "reviewer": "Zahra Ahmadi",
+  "rating": 5,
+  "review_text": "Persian Palace is a hidden gem serving authentic Persian cuisine. The koobideh kebabs were juicy and perfectly seasoned, and the saffron rice was aromatic and fluffy. The decor is elegant and the service was impeccable. A great place for a special occasion or just to enjoy a delicious meal.",
+  "date": "2024-02-13"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dd9"
+  },
+  "restaurant_name": "Korean BBQ House",
+  "reviewer": "Jin-woo Park",
+  "rating": 5,
+  "review_text": "Korean BBQ House is a fantastic place for Korean barbecue. The meat was fresh and tender, and the banchan were varied and delicious. The interactive dining experience and friendly staff made for a memorable meal. Highly recommended.",
+  "date": "2024-01-26"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dda"
+  },
+  "restaurant_name": "Lebanese Haven",
+  "reviewer": "Omar Khoury",
+  "rating": 5,
+  "review_text": "Lebanese Haven offers a delightful array of Lebanese dishes. The shawarma was juicy and packed with flavor, and the hummus was creamy and delicious. The ambiance is warm and inviting, with beautiful decor and friendly staff. A great place to enjoy a meal with family and friends.",
+  "date": "2024-02-16"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00ddb"
+  },
+  "restaurant_name": "Russian Delight",
+  "reviewer": "Anastasia Petrova",
+  "rating": 5,
+  "review_text": "Russian Delight brings the flavors of Russia to life. The borscht was hearty and flavorful, and the pelmeni were tender and delicious. The decor is traditional and the staff are warm and welcoming. A fantastic place to experience authentic Russian cuisine.",
+  "date": "2024-02-15"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00ddc"
+  },
+  "restaurant_name": "Vietnamese Kitchen",
+  "reviewer": "Ngoc Pham",
+  "rating": 4,
+  "review_text": "Vietnamese Kitchen offers a delightful array of traditional dishes. The pho was aromatic and comforting, with a rich broth and tender slices of beef. The banh mi was also a standout, with a crispy baguette and flavorful fillings. The ambiance is cozy and the staff are welcoming. Definitely a place worth visiting for a taste of Vietnam.",
+  "date": "2024-02-11"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00ddd"
+  },
+  "restaurant_name": "Soul Food Kitchen",
+  "reviewer": "Aaliyah Johnson",
+  "rating": 5,
+  "review_text": "Soul Food Kitchen serves up hearty and comforting dishes. The fried chicken was crispy and tender, and the mac and cheese was creamy and rich. The cornbread was a delightful addition to the meal. The warm atmosphere and friendly staff made it feel like a home away from home. Highly recommended.",
+  "date": "2024-02-18"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00dde"
+  },
+  "restaurant_name": "Jamaican Vibes",
+  "reviewer": "Leroy Brown",
+  "rating": 4,
+  "review_text": "Jamaican Vibes offers an authentic taste of the Caribbean. The jerk chicken was spicy and flavorful, and the plantains were sweet and perfectly cooked. The vibrant decor and lively music added to the enjoyable atmosphere. A great spot to unwind and enjoy some delicious Jamaican food.",
+  "date": "2024-02-17"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00ddf"
+  },
+  "restaurant_name": "Brazilian Churrasco",
+  "reviewer": "Diego Costa",
+  "rating": 5,
+  "review_text": "Brazilian Churrasco offers an unforgettable dining experience with its endless selection of grilled meats. The picanha was cooked to perfection, juicy and flavorful. The salad bar was fresh and had a great variety. The vibrant atmosphere and attentive service made it a fantastic night out. A must-visit for meat lovers.",
+  "date": "2024-02-12"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00de0"
+  },
+  "restaurant_name": "Italian Bistro",
+  "reviewer": "Paolo Ricci",
+  "rating": 4,
+  "review_text": "Italian Bistro offers a cozy and intimate dining experience. The risotto was creamy and rich, with a perfect balance of flavors. The bruschetta was fresh and flavorful. The ambiance is charming and the staff are friendly and attentive. A wonderful spot for a romantic dinner or a quiet night out.",
+  "date": "2024-02-14"
+},{
+  "_id": {
+    "$oid": "66687e287c2be70cdcf00de1"
+  },
+  "restaurant_name": "Moroccan Oasis",
+  "reviewer": "Khalid El-Mahdi",
+  "rating": 4,
+  "review_text": "Moroccan Oasis offers a taste of Morocco with its delicious dishes. The lamb tagine was tender and aromatic, with a perfect blend of spices. The couscous was light and fluffy, complementing the tagine perfectly. The traditional decor and warm hospitality made for a memorable dining experience. A great spot for Moroccan cuisine lovers.",
+  "date": "2024-02-19"
+},{
+  "_id": {
+    "$oid": "66687fe4af41a19adca0028e"
+  },
+  "restaurant_name": "Burnt BBQ Shack",
+  "reviewer": "Daniel Thompson",
+  "rating": 2,
+  "review_text": "Burnt BBQ Shack didn't meet expectations. The BBQ was burnt and dry, and the sides were underwhelming. The ambiance was lacking, and the service was mediocre."
+},{
+  "_id": {
+    "$oid": "66687fe4af41a19adca0028f"
+  },
+  "restaurant_name": "Soggy Tacos",
+  "reviewer": "Greg Thompson",
+  "rating": 1,
+  "review_text": "Soggy Tacos lived up to its name. The tacos were dripping with grease, and the meat tasted off. The service was slow, and the ambiance was lacking. Not recommended."
+},{
+  "_id": {
+    "$oid": "66687fe4af41a19adca00290"
+  },
+  "restaurant_name": "Soggy Tacos",
+  "reviewer": "Hannah White",
+  "rating": 2,
+  "review_text": "Soggy Tacos wasn't the best experience. The tacos were greasy and lacked flavor. The service was slow, and the atmosphere was underwhelming."
+},{
+  "_id": {
+    "$oid": "66687fe4af41a19adca00291"
+  },
+  "restaurant_name": "Burnt Toast Cafe",
+  "reviewer": "Chris Anderson",
+  "rating": 3,
+  "review_text": "Burnt Toast Cafe had its ups and downs. The toast was burnt, but the coffee was decent. The service could be improved, and the ambiance was okay."
+},{
+  "_id": {
+    "$oid": "66687fe4af41a19adca00292"
+  },
+  "restaurant_name": "Cold Soup Kitchen",
+  "reviewer": "Emma Roberts",
+  "rating": 2,
+  "review_text": "Cold Soup Kitchen was a disappointment. The soup was lukewarm, and the flavors were bland. The decor was outdated, and the service was slow."
+},{
+  "_id": {
+    "$oid": "66687fe4af41a19adca00293"
+  },
+  "restaurant_name": "Bland Burgers Joint",
+  "reviewer": "Michelle Taylor",
+  "rating": 2,
+  "review_text": "Bland Burgers Joint didn't impress. The burgers lacked flavor and were overcooked. The fries were underwhelming, and the service was mediocre."
+},{
+  "_id": {
+    "$oid": "66687fe4af41a19adca00294"
+  },
+  "restaurant_name": "Soggy Fries Diner",
+  "reviewer": "Jake Wilson",
+  "rating": 1,
+  "review_text": "Soggy Fries Diner was a letdown. The fries were soggy and tasteless. The burgers were dry, and the overall experience was disappointing."
+},{
+  "_id": {
+    "$oid": "66687fe4af41a19adca00295"
+  },
+  "restaurant_name": "Stale Pizza Place",
+  "reviewer": "Andrew Thompson",
+  "rating": 1,
+  "review_text": "Stale Pizza Place served up stale pizza. The crust was hard, and the toppings were sparse. The service was slow, and the overall experience was disappointing."
+},{
+  "_id": {
+    "$oid": "66687fe4af41a19adca00296"
+  },
+  "restaurant_name": "Sour Salad Bar",
+  "reviewer": "Sophie Miller",
+  "rating": 3,
+  "review_text": "Sour Salad Bar had its hits and misses. The salad ingredients seemed fresh, but some dressings were too sour. The ambiance was average, and the service could be better."
+},{
+  "_id": {
+    "$oid": "66687fe4af41a19adca00297"
+  },
+  "restaurant_name": "Greasy Spoon Diner",
+  "reviewer": "Adam Brown",
+  "rating": 2,
+  "review_text": "Greasy Spoon Diner was greasy indeed. The food was heavy, and the flavors were dull. The service was slow, and the atmosphere was unappealing."
+},{
+  "_id": {
+    "$oid": "66687fe4af41a19adca00298"
+  },
+  "restaurant_name": "Mushy Pasta House",
+  "reviewer": "David Clark",
+  "rating": 2,
+  "review_text": "Mushy Pasta House fell short of expectations. The pasta was overcooked, and the sauces were bland. The service was slow, and the atmosphere was uninspiring."
+},{
+  "_id": {
+    "$oid": "66687fe4af41a19adca00299"
+  },
+  "restaurant_name": "Burnt BBQ Shack",
+  "reviewer": "Rachel Johnson",
+  "rating": 1,
+  "review_text": "Burnt BBQ Shack left much to be desired. The BBQ was burnt and dry, and the sides were lackluster. The service was subpar, and the overall experience was disappointing."
+},{
+  "_id": {
+    "$oid": "66687fe4af41a19adca0029a"
+  },
+  "restaurant_name": "Soggy Tacos",
+  "reviewer": "Natalie Green",
+  "rating": 3,
+  "review_text": "Soggy Tacos had its moments. While the tacos were a bit greasy, the fillings were decent. The service was average, and the atmosphere was casual."
+},{
+  "_id": {
+    "$oid": "66687fe4af41a19adca0029b"
+  },
+  "restaurant_name": "Burnt Toast Cafe",
+  "reviewer": "Kevin Martinez",
+  "rating": 2,
+  "review_text": "Burnt Toast Cafe could improve. The burnt toast was a disappointment, but the coffee was drinkable. The service was slow, and the ambiance was lacking."
+},{
+  "_id": {
+    "$oid": "66687fe4af41a19adca0029c"
+  },
+  "restaurant_name": "Cold Soup Kitchen",
+  "reviewer": "Olivia Adams",
+  "rating": 3,
+  "review_text": "Cold Soup Kitchen had some redeeming qualities. While the soup was lukewarm, some flavors were decent. The decor was outdated, but the service was friendly."
+},{
+  "_id": {
+    "$oid": "66687fe4af41a19adca0029d"
+  },
+  "restaurant_name": "Soggy Fries Diner",
+  "reviewer": "Lucas Wright",
+  "rating": 2,
+  "review_text": "Soggy Fries Diner wasn't impressive. The fries were soggy, and the burgers were mediocre. The service was slow, and the atmosphere was forgettable."
+},{
+  "_id": {
+    "$oid": "66687fe4af41a19adca0029e"
+  },
+  "restaurant_name": "Bland Burgers Joint",
+  "reviewer": "Sophia Thomas",
+  "rating": 1,
+  "review_text": "Bland Burgers Joint fell short. The burgers were tasteless, and the fries were undercooked. The service was lacking, and the ambiance was uninspiring."
+},{
+  "_id": {
+    "$oid": "66687fe4af41a19adca0029f"
+  },
+  "restaurant_name": "Stale Pizza Place",
+  "reviewer": "Matthew Roberts",
+  "rating": 2,
+  "review_text": "Stale Pizza Place served up disappointing pizza. The crust was hard, and the toppings were sparse. The service was slow, and the overall experience was dull."
+},{
+  "_id": {
+    "$oid": "66687fe4af41a19adca002a0"
+  },
+  "restaurant_name": "Sour Salad Bar",
+  "reviewer": "Isabella Johnson",
+  "rating": 3,
+  "review_text": "Sour Salad Bar had its moments. While some salads were fresh, others were overdressed. The service was decent, and the atmosphere was relaxed."
+},{
+  "_id": {
+    "$oid": "66687fe4af41a19adca002a1"
+  },
+  "restaurant_name": "Greasy Spoon Diner",
+  "reviewer": "Alexander Brown",
+  "rating": 2,
+  "review_text": "Greasy Spoon Diner was too greasy. The food was heavy, and the flavors were overpowering. The service was slow, and the atmosphere was unappealing."
+},{
+  "_id": {
+    "$oid": "66687fe4af41a19adca002a2"
+  },
+  "restaurant_name": "Burnt BBQ Shack",
+  "reviewer": "Gabriella Taylor",
+  "rating": 1,
+  "review_text": "Burnt BBQ Shack was a letdown. The BBQ was burnt and dry, and the sides were bland. The service was slow, and the overall experience was disappointing."
+},{
+  "_id": {
+    "$oid": "66687fe4af41a19adca002a3"
+  },
+  "restaurant_name": "Mushy Pasta House",
+  "reviewer": "Joshua Clark",
+  "rating": 2,
+  "review_text": "Mushy Pasta House lacked flavor. The pasta was overcooked, and the sauces were bland. The service was slow, and the atmosphere was uninspiring."
+},{
+  "_id": {
+    "$oid": "66687fe4af41a19adca002a4"
+  },
+  "restaurant_name": "Soggy Tacos",
+  "reviewer": "Nathan Green",
+  "rating": 3,
+  "review_text": "Soggy Tacos was decent. While the tacos were a bit greasy, the flavors were alright. The service was average, and the atmosphere was casual."
+},{
+  "_id": {
+    "$oid": "66687fe4af41a19adca002a5"
+  },
+  "restaurant_name": "Greasy Spoon Diner",
+  "reviewer": "Jennifer Brown",
+  "rating": 1,
+  "review_text": "Greasy Spoon Diner was a disappointment. The food was greasy and heavy, and the coffee was bitter. The decor was outdated, and the service was slow. Not recommended."
+},{
+  "_id": {
+    "$oid": "66687fe4af41a19adca002a6"
+  },
+  "restaurant_name": "Cold Soup Kitchen",
+  "reviewer": "David Reynolds",
+  "rating": 2,
+  "review_text": "Cold Soup Kitchen left much to be desired. The soup was lukewarm and lacked flavor. The decor was outdated, and the staff were indifferent. Wouldn't recommend."
+},{
+  "_id": {
+    "$oid": "66687fe4af41a19adca002a7"
+  },
+  "restaurant_name": "Bland Burgers Joint",
+  "reviewer": "Jason Evans",
+  "rating": 2,
+  "review_text": "Bland Burgers Joint didn't impress. The burgers were bland and overcooked, and the fries were underseasoned. The restaurant lacked ambiance, and the staff were inattentive."
+},{
+  "_id": {
+    "$oid": "66687fe4af41a19adca002a8"
+  },
+  "restaurant_name": "Soggy Fries Diner",
+  "reviewer": "Sarah Miller",
+  "rating": 1,
+  "review_text": "Soggy Fries Diner was a letdown. The fries were limp and soggy, and the burgers were dry. The atmosphere was dull, and the service was slow. Not worth a visit."
+},{
+  "_id": {
+    "$oid": "66687fe4af41a19adca002a9"
+  },
+  "restaurant_name": "Sour Salad Bar",
+  "reviewer": "Michael Smith",
+  "rating": 2,
+  "review_text": "Sour Salad Bar was a letdown. The salad ingredients seemed stale, and the dressings were lackluster. The atmosphere was uninviting, and the staff were not very friendly."
+},{
+  "_id": {
+    "$oid": "66687fe4af41a19adca002aa"
+  },
+  "restaurant_name": "Stale Pizza Place",
+  "reviewer": "Jessica Lee",
+  "rating": 1,
+  "review_text": "Stale Pizza Place served up disappointing pizza. The crust was stale, and the toppings were sparse. The dining area was unkempt, and the service was slow. Wouldn't recommend."
+},{
+  "_id": {
+    "$oid": "66687fe4af41a19adca002ab"
+  },
+  "restaurant_name": "Burnt Toast Cafe",
+  "reviewer": "Emily Parker",
+  "rating": 1,
+  "review_text": "Burnt Toast Cafe was a disappointment. The toast was literally burnt, and the coffee was bitter. The servers seemed overwhelmed, and the overall experience was unpleasant."
+},{
+  "_id": {
+    "$oid": "66687fe4af41a19adca002ac"
+  },
+  "restaurant_name": "Mushy Pasta House",
+  "reviewer": "Sophia Clark",
+  "rating": 1,
+  "review_text": "Mushy Pasta House was a letdown. The pasta was overcooked and mushy, and the sauces were bland. The dining area was cramped, and the service was slow. Not worth it."
+}]
